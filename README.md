@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Will 
-- 👀 I’m interested in collaboration, cats, money, business, cybersecurity, privacy rights, research, cloud computing, application development...
-- 🌱 I’m currently pursuing an accelerated full stack education
-- 💞️ I’m looking for nothing right now...
-- 📫 How to reach me ... look me up on linkedin
+I am motivated by purpose driven development, empowerment through education, and money
+My interests include education, cats, money, business, cybersecurity, privacy rights, research, cloud computing, application development...
+I'm currently pursuing an accelerated full stack education
+
+
