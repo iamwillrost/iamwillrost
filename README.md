@@ -1,5 +1,7 @@
-I am motivated by purpose driven development, empowerment through education, and money....
-My interests include education, cats, money, business, cybersecurity, privacy rights, research, cloud computing, application development....
-I'm currently pursuing an accelerated full stack education....
+I am a motivated and purpose driven developer
+I believe in empowerment through education.
+I am interested in business $$$
+My interests include education, cats, money, business, cybersecurity, privacy, research, cloud computing, and application development.
+I am enrolled in an accelerated full stack program.
 
 
