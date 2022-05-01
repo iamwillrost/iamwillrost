@@ -1,7 +1,5 @@
-Purpose driven projects tend to be the most motivating.
-I believe all people _should_ be empowered by a computer science education.
-I am still teaching myself programming, I'm studied in business...
-My other interests include education, cats, money, business, cybersecurity, privacy, research.
-I enrolled in an accelerated full stack development program to teach myself coding skills. That's a waste of money.
+web platform application development
 
+value for education, all people must feel empowered by computer science because software impacts every part of modern life. If people don't feel empowered to create technology, they will remain users; if people don't feel empowered to use technology confidently, they will only feel used by technology or subservient to it
 
+other interests include education, philosophy, business
