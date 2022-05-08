@@ -1,5 +1,9 @@
-web platform application development
+product development
 
-value education, all people must feel empowered by computer science because software impacts every part of modern life. If people don't feel empowered to create technology, they will remain users; if people don't feel empowered to use technology confidently, they will only feel used by technology or subservient to it
+value for education, all people must become empowered by some computer skills because technology impacts every part of life. 
 
-other interests include education, philosophy, business
+If people don't create tech, or know how to use it, they'll get beaten by people who can; 
+
+other interests 
+education, philosophy, business
+
