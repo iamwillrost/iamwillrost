@@ -1,9 +1,20 @@
-product development
+interest in javascript, svg, canvas, three.js, css.
 
-value for education, all people must be empowered by computer skills because technology impacts every part of life. 
+all people must be empowered by computer skills because technology impacts every part of life. 
 
-If people don't create tech, or know how to use it, they'll get beaten by people who can; 
+create technology, know how to use it, dont let outcomes be determined by people who can; 
 
-other interests 
-education, philosophy, business
+
+other interests:
+
+investment finance and business operations
+
+
+causes I care about:
+
+healthcare is most urgent 
+
+education is most important
+
+
 
