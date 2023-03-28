@@ -1,4 +1,4 @@
-interest in javascript, svg, canvas, three.js, css.
+interest in javascript, webxr, webGL, three.js, css.
 
 all people must be empowered by computer skills because technology impacts every part of life. 
 
@@ -17,4 +17,4 @@ healthcare is most urgent
 education is most important
 
 
-
+connections become apparent 
